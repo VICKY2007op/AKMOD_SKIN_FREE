@@ -1,0 +1,5 @@
+cd $HOME/AKMOD_SKIN_FREE
+chmod +x setup
+chmod +x menu
+chmod +x repak
+./setup
